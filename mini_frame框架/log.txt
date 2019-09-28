@@ -1,0 +1,3 @@
+2019-09-28 18:26:37,866 - mini_frame.py[line:244] - INFO: 访问的是，/center.html
+2019-09-28 18:27:20,481 - mini_frame.py[line:244] - INFO: 访问的是: /cen1313ter.html
+2019-09-28 18:27:20,482 - mini_frame.py[line:259] - WARNING: 没有对应的函数....
